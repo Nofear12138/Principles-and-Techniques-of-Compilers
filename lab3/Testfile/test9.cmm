@@ -1,0 +1,7 @@
+int func(int a);
+
+int main()
+{
+    func(2.5);
+}
+//error!

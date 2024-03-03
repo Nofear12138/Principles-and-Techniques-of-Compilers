@@ -1,0 +1,14 @@
+int a;
+struct node{
+   int i=;
+};
+int main(){
+	int i[1.54] = 3;
+	int a,b=+;
+	int i=;
+	while(i=){i=i+1;}
+	a[5,2]=4;
+	b[1.24]=4;
+	fun(a,b=);
+	return 0
+}

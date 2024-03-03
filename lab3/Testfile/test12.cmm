@@ -1,0 +1,6 @@
+int main()
+{
+    int i[10];
+    float k = 1.5;
+    i[k] = 10;
+}
